@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #deck.js
 
 A JavaScript library for building modern HTML presentations. deck.js is flexible enough to let advanced CSS and JavaScript authors craft highly customized decks, but also provides templates and themes for the HTML novice to build a standard slideshow.
@@ -58,3 +59,7 @@ Licensed under the [MIT license](https://github.com/imakewebthings/deck.js/blob/
 
 [![Gittip donate
 button](http://img.shields.io/gittip/imakewebthings.png)](https://www.gittip.com/imakewebthings/ "Donate weekly to this project using Gittip")
+=======
+# BohrAtomicModel
+Presentation on Bohr's Atomic Model
+>>>>>>> 4f50630044ff571bc3a5be0ba3941c3d741835c2
